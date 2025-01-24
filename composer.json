@@ -1,0 +1,17 @@
+{
+    "name": "omnisend/wp-omnisend",
+    "description": "Omnisend Core plugin",
+    "license": "proprietary",
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    },
+    "require-dev": {
+        "php": ">=7.4.0",
+        "wp-coding-standards/wpcs": "^3.0",
+        "squizlabs/php_codesniffer": "^3.7.1",
+        "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
+        "phpunit/phpunit": "^10"
+    }
+}
