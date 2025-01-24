@@ -1,1 +1,1 @@
-# wp-omnisend-surecart
+# Omnisend add-on for SureCart Wordpress plugin
