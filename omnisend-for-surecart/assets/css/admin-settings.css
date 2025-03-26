@@ -1,0 +1,77 @@
+.omnisend-sc-sync {
+	max-width: 300px;
+	margin-top: 20px;
+}
+
+.omnisend-sc-option.block input,
+.omnisend-sc-option.block label {
+	display: block;
+}
+
+.omnisend-sc-option.block label {
+	margin-bottom: 10px;
+}
+
+.omnisend-sc-option label {
+	font-size: 15px;
+}
+
+.omnisend-sc-option.block {
+	margin-left: 22px;
+}
+
+.omnisend-sc-option {
+	margin-top: 20px;
+}
+
+.omnisend-sc-option input.text {
+	width: 300px;
+}
+
+.omnisend-sc-logo {
+	margin-top: 30px;
+}
+
+.omnisend-sc-logo a {
+	display: block;
+	max-width: fit-content;
+}
+
+.omnisend-sc-settings-header {
+	border-top: 1px solid #C0C0C0;
+	border-bottom: 1px solid #C0C0C0;
+	padding: 30px 0;
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.omnisend-sc-collect-header {
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.omnisend-sc-container {
+	margin-left: 15px;
+}
+
+.omnisend-sc-learn-more {
+	margin-top: 15px;
+	color: #35938F;
+	display: block;
+	font-size: 14px;
+	margin-left: 22px;
+	max-width: fit-content;
+}
+
+.omnisend-sc-option.pre-select {
+	margin-left: 22px;
+	padding: 10px 0;
+}
+
+.omnisend-sc-notice {
+	margin-left: 22px;
+	margin-top: 5px;
+	font-size: 14px;
+	color: dimgray;
+	display: block;
+}
