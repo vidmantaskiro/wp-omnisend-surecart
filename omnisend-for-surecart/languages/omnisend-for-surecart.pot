@@ -1,0 +1,112 @@
+#. Description of the plugin
+msgid ""
+"A SureCart add-on to sync Products/Categories/Orders/Contacts with Omnisend. "
+"In collaboration with SureCart plugin, it also enables better customer "
+"tracking"
+msgstr ""
+
+#: templates/omnisendsettings.php:84
+msgid "Add a phone no. opt-in checkbox to the checkout page"
+msgstr ""
+
+#: templates/omnisendsettings.php:42
+msgid "Add an email opt-in checkbox to the checkout page"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:92
+msgid "Categories"
+msgstr ""
+
+#: templates/omnisendsettings.php:29
+msgid "Collect subscribers at checkout"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:95
+msgid "Customers"
+msgstr ""
+
+#: templates/omnisendsettings.php:71
+msgid "Customers can deselect if they don't want email marketing "
+msgstr ""
+
+#: templates/omnisendsettings.php:45
+msgid ""
+"Customers who consent will be imported to your Omnisend account as email "
+"subscribers"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:110
+msgid "Finished"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.omnisend.com"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:108
+msgid "In progress"
+msgstr ""
+
+#: templates/omnisendsettings.php:100
+msgid "Learn more opt-in settings"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:113
+msgid "Not started"
+msgstr ""
+
+#. Author of the plugin
+msgid "Omnisend"
+msgstr ""
+
+#. Name of the plugin
+msgid "Omnisend for SureCart Add-On"
+msgstr ""
+
+#: class-omnisend-surecartaddon.php:134
+msgid "Omnisend plugin."
+msgstr ""
+
+#: templates/omnisendsettings.php:50 templates/omnisendsettings.php:90
+msgid "Opt-in checkbox consent text"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:94
+msgid "Orders"
+msgstr ""
+
+#: templates/omnisendsettings.php:25
+msgid "Plugin settings"
+msgstr ""
+
+#: templates/omnisendsettings.php:68
+msgid "Preselect opt-in checkbox in the checkout page"
+msgstr ""
+
+#: includes/Cron/class-omnisendinitialsync.php:93
+msgid "Products"
+msgstr ""
+
+#: class-omnisend-surecartaddon.php:143
+msgid "SureCart plugin."
+msgstr ""
+
+#: templates/omnisendsettings.php:108
+msgid "Sync Object"
+msgstr ""
+
+#: templates/omnisendsettings.php:109
+msgid "Sync Status"
+msgstr ""
+
+#: class-omnisend-surecartaddon.php:134
+msgid ""
+"Your Omnisend is not configured properly. Please configure it by connecting "
+"to your Omnisend account."
+msgstr ""
+
+#: class-omnisend-surecartaddon.php:143
+msgid ""
+"Your SureCart is not configured properly. Please configure it by connecting "
+"to your SureCart account."
+msgstr ""
