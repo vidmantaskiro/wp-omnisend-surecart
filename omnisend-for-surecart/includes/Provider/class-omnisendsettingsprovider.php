@@ -65,6 +65,7 @@ class OmnisendSettingsProvider {
 		);
 	}
 
+	// phpcs:disable PluginCheck.CodeAnalysis.SettingSanitization.register_settingDynamic 
 	/**
 	 * Loads Omnisend admin page content
 	 *
@@ -80,8 +81,13 @@ class OmnisendSettingsProvider {
 	 * @return void
 	 */
 	public function register_settings(): void {
+		$args = array(
+			'default'           => null,
+			'sanitize_callback' => 'sanitize_text_field',
+		);
+
 		foreach ( self::OPTION_LIST as $option_code ) {
-			register_setting( 'omnisend_surecart_options_group', $option_code );
+			register_setting( 'omnisend_surecart_options_group', $option_code, $args );
 		}
 	}
 
