@@ -97,7 +97,7 @@ use Omnisend\SureCartAddon\Cron\OmnisendInitialSync;
 				value="<?php echo esc_attr( get_option( OmnisendSettingsProvider::PHONE_TEXT_OPTION ) ); ?>"
 			>
 		</div>
-		<a href="#" class="omnisend-sc-learn-more" target="_blank">
+		<a href="https://support.omnisend.com/en/articles/10802246-integration-with-surecart" class="omnisend-sc-learn-more" target="_blank">
 			<?php echo esc_html__( 'Learn more opt-in settings', 'omnisend-for-surecart' ); ?>
 		</a>
 
