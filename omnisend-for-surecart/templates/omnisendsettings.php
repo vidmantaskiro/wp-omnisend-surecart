@@ -12,12 +12,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 use Omnisend\SureCartAddon\Provider\OmnisendSettingsProvider;
 use Omnisend\SureCartAddon\Cron\OmnisendInitialSync;
 
+// phpcs:disable PluginCheck.CodeAnalysis.ImageFunctions.NonEnqueuedImage
 ?>
 
 <div class="omnisend-sc-container">
 	<div class="omnisend-sc-logo">
 		<a href="https://app.omnisend.com" target="_blank">
-			<img src="<?php echo esc_url( plugin_dir_url( __FILE__ ) ) . '../assets/img/omnisend-logo.svg'; ?>">
+			<img alt="Omnisend logo" src="<?php echo esc_url( plugins_url( '../assets/img/omnisend-logo.svg', __FILE__ ) ); ?>">
 		</a>
 	</div>
 
@@ -96,7 +97,7 @@ use Omnisend\SureCartAddon\Cron\OmnisendInitialSync;
 				value="<?php echo esc_attr( get_option( OmnisendSettingsProvider::PHONE_TEXT_OPTION ) ); ?>"
 			>
 		</div>
-		<a href="#" class="omnisend-sc-learn-more" target="_blank">
+		<a href="https://support.omnisend.com/en/articles/10802246-integration-with-surecart" class="omnisend-sc-learn-more" target="_blank">
 			<?php echo esc_html__( 'Learn more opt-in settings', 'omnisend-for-surecart' ); ?>
 		</a>
 
