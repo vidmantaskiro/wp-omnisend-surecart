@@ -78,6 +78,6 @@ class OmnisendConsentProvider {
 	 * @return string
 	 */
 	private function get_checkbox( string $code, string $text, string $pre_selected = '' ): string {
-		return '<sc-checkbox name="' . $code . '" value="consent" ' . $pre_selected . '>' . $text . '</sc-checkbox>'; // add dynamically phone field ?
+		return '<sc-checkbox name="' . $code . '" value="consent" ' . $pre_selected . '>' . $text . '</sc-checkbox>';
 	}
 }
