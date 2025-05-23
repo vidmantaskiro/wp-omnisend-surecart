@@ -14,7 +14,33 @@ Email Marketing, Newsletter, Email Automation, Forms, Pop Up, SMS by Omnisend
 
 == DESCRIPTION ==
 
-Omnisend for SureCart - automatically sync contacts, new subscribers their orders and products, product categories to Omnisend. [SureCart](https://surecart.com/) is a powerful WordPress commerce plugin to list and sell products.
+Integrate SureCart with Omnisend to power your store with personalized email & SMS automations, boost conversions, and grow your revenue with ease. Whether you sell physical products, digital downloads or subscriptions, this integration gives you the tools to follow up with your customers and keep them engaged.
+
+**What is SureCart?**
+
+SureCart is a simple yet flexible ecommerce platform made for WordPress. It lets you sell just about anything from physical goods and digital files to recurring subscriptions — without touching a line of code. Built with creators, educators, agencies and businesses in mind, it’s easy to use, lightweight, and scales with you.
+
+**Key Features:**
+
+* Headless, no-code, cloud-based eCommerce
+* Customizable Checkout Forms
+* Custom Product Page Designer
+* Flexible Payment and Smart Discount Options
+* Order Bumps & Upsells
+* Subscription Management
+* Affiliate Management
+
+**How to Connect SureCart to Omnisend**
+
+Setting up the integration is simple. Just login to your Omnisend account, search ‘SureCart’ in the Omnisend App Market, click on ‘Connect Now’ button and follow the guided steps to sync your SureCart data, such as customer profiles, order history, and product details. In minutes, you’ll be ready to launch automated workflows like abandoned cart recovery, post-purchase follow-ups, and welcome sequences.
+
+**Grow Smarter with SureCart and Omnisend**
+
+SureCart takes care of the shopping experience. Omnisend helps you stay connected after the sale. Together, they make it easy to run your business, stay personal with your audience, and turn one-time shoppers into repeat customers.
+Download the SureCart App and start selling online today
+Download the SureCart WordPress Ecommerce Plugin
+Check out what’s new in SureCart
+Join our community of thriving entrepreneurs, creators and agencies
 
 == REQUIREMENTS ==
 
