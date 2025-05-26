@@ -39,7 +39,7 @@ class OmnisendSettingsProvider {
 
 		add_action( 'admin_menu', array( $this, 'add_menu' ) );
 		add_action( 'admin_init', array( $this, 'register_settings' ) );
-		add_filter( 'plugin_action_links_omnisend-for-surecart/class-omnisend-surecartaddon.php', array( $this, 'add_settings_link' ) );
+		add_filter( 'plugin_action_links_omnisend-for-surecart-add-on/class-omnisend-surecartaddon.php', array( $this, 'add_settings_link' ) );
 
 		wp_register_style(
 			'omnisend-sc-settings',

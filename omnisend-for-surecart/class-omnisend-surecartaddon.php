@@ -54,7 +54,7 @@ class Omnisend_SureCartAddOn {
 	 * @return void
 	 */
 	public static function activation_actions( string $plugin ): void {
-		if ( $plugin !== 'omnisend-for-surecart/class-omnisend-surecartaddon.php' ) {
+		if ( $plugin !== 'omnisend-for-surecart-add-on/class-omnisend-surecartaddon.php' ) {
 			return;
 		}
 
