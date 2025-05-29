@@ -24,7 +24,7 @@ class OmnisendSettingsProvider {
 	public const EMAIL_TEXT_OPTION             = 'omnisend_sc_email_text';
 	public const STORE_CONNECTED_OPTION        = 'omnisend_sc_store_connected';
 
-	private const OPTION_LIST = array(
+	public const OPTION_LIST = array(
 		self::ALLOW_EMAIL_CONSENT_OPTION,
 		self::ALLOW_EMAIL_PRE_SELECT_OPTION,
 		self::ALLOW_PHONE_CONSENT_OPTION,
