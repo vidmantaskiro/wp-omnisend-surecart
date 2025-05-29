@@ -80,6 +80,10 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 == Changelog ==
 
+= 1.0.5 =
+
+* Fix release.
+
 = 1.0.4 =
 
 * After deleting plugin, settings will be removed as well.
