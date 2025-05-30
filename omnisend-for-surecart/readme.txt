@@ -5,7 +5,7 @@ Tags: SureCart, form, email marketing, web tracking, subscriber collection
 Requires at least: 4.7
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,9 +38,9 @@ Setting up the integration is simple. Just login to your Omnisend account, searc
 
 SureCart takes care of the shopping experience. Omnisend helps you stay connected after the sale. Together, they make it easy to run your business, stay personal with your audience, and turn one-time shoppers into repeat customers.
 Download the SureCart App and start selling online today
-Download the SureCart WordPress Ecommerce Plugin
-Check out what’s new in SureCart
-Join our community of thriving entrepreneurs, creators and agencies
+(Download the SureCart WordPress Ecommerce Plugin)[https://wordpress.org/plugins/surecart/?utm_source=omnisend&utm_medium=Listing&utm_campaign=omnisend_app_listing]
+(Check out what’s new in SureCart)[https://surecart.com/whats-new/?utm_source=omnisend&utm_medium=Listing&utm_campaign=omnisend_app_listing]
+(Join SureCart's community of thriving entrepreneurs, creators and agencies)[https://www.facebook.com/groups/surecrafted?utm_source=omnisend&utm_medium=Listing&utm_campaign=omnisend_app_listing]
 
 == REQUIREMENTS ==
 
@@ -79,6 +79,9 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 7. Convert more visitors with highly-targeted landing pages
 
 == Changelog ==
+
+= 1.0.6 =
+* Updated readme.
 
 = 1.0.5 =
 
